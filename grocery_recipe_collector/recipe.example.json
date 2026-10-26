@@ -1,0 +1,13 @@
+{
+  "recipe_id": "pumpkin-potato-soup",
+  "name": "Суп из тыквы и картофеля",
+  "servings": 3,
+  "ingredients": [
+    {"name": "Тыква", "amount": 500, "unit": "g", "search_terms": ["тыква", "тыква баттернат", "тыква столовая"], "exclude_terms": ["декоративная"]},
+    {"name": "Картофель", "amount": 200, "unit": "g", "search_terms": ["картофель", "картофель красный", "картофель мытый"], "exclude_terms": ["батат", "готовый", "чипсы"]},
+    {"name": "Лук", "amount": 80, "unit": "g", "search_terms": ["лук репчатый", "лук белый", "лук ялтинский"], "exclude_terms": ["зеленый лук", "луковая паста"]},
+    {"name": "Вода", "amount": 700, "unit": "ml", "search_terms": ["вода питьевая"]},
+    {"name": "Оливковое масло", "amount": 10, "unit": "ml", "search_terms": ["масло оливковое", "оливковое масло extra virgin"], "exclude_terms": ["с ароматом", "с чесноком", "с трюфелем"]}
+  ],
+  "stores": ["perekrestok", "pyaterochka", "magnit"]
+}
