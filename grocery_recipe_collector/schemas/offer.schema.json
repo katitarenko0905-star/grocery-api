@@ -1,0 +1,33 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://example.invalid/grocery-recipe-collector/offer.schema.json",
+  "title": "Recipe ingredient retail offer",
+  "type": "object",
+  "required": ["store", "ingredient_name", "product_name", "ingredients_text", "source_url", "collected_at"],
+  "properties": {
+    "store": {"enum": ["perekrestok", "pyaterochka", "magnit"]},
+    "store_name": {"type": "string"},
+    "region": {"type": ["string", "null"]},
+    "ingredient_name": {"type": "string"},
+    "product_name": {"type": "string"},
+    "brand": {"type": ["string", "null"]},
+    "package_quantity": {"type": ["number", "null"]},
+    "package_unit": {"enum": ["g", "kg", "ml", "l", "pcs", null]},
+    "price_rub": {"type": ["number", "null"], "minimum": 0},
+    "price_per_base_unit_rub": {"type": ["number", "null"], "minimum": 0},
+    "recipe_amount": {"type": ["number", "null"], "minimum": 0},
+    "recipe_unit": {"enum": ["g", "kg", "ml", "l", "pcs", null]},
+    "recipe_cost_estimate_rub": {"type": ["number", "null"], "minimum": 0},
+    "calories_kcal_per_100": {"type": ["number", "null"], "minimum": 0},
+    "protein_g_per_100": {"type": ["number", "null"], "minimum": 0},
+    "fat_g_per_100": {"type": ["number", "null"], "minimum": 0},
+    "carbohydrate_g_per_100": {"type": ["number", "null"], "minimum": 0},
+    "ingredients_text": {"type": "string", "minLength": 1, "description": "Обязательный состав, извлечённый с карточки товара или этикетки"},
+    "availability": {"type": ["string", "null"]},
+    "match_confidence": {"type": "number", "minimum": 0, "maximum": 1},
+    "match_notes": {"type": ["string", "null"]},
+    "source_url": {"type": "string", "format": "uri"},
+    "collected_at": {"type": "string", "format": "date-time"}
+  },
+  "additionalProperties": true
+}
