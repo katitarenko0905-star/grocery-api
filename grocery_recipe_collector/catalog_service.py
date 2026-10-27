@@ -47,6 +47,16 @@ def create_handler(data):
 
         def do_GET(self):
             url = urlparse(self.path)
+            if url.path.rstrip('/') == '/browse':
+                raw = Path(__file__).with_name('browse.html').read_bytes()
+                self.send_response(200)
+                self.send_header('Content-Type', 'text/html; charset=utf-8')
+                self.send_header('Content-Length', str(len(raw)))
+                self.send_header('Cache-Control', 'no-store')
+                self.send_header('X-Content-Type-Options', 'nosniff')
+                self.end_headers()
+                self.wfile.write(raw)
+                return
             path = url.path.rstrip('/') or '/'
             query = parse_qs(url.query)
             try:
