@@ -2,3 +2,14 @@ __pycache__/
 .venv/
 results.json
 results.csv
+data/**/evidence/
+data/**/recipes_page_*.json
+data/**/recipes.json
+data/**/catalog.sqlite3
+data/**/catalog.json
+data/**/products.jsonl
+data/**/rejected_products.json
+data/**/*_plan.json
+data/**/ingredients.json
+data/**/app_products.json
+exports/

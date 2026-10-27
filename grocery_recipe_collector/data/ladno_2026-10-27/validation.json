@@ -1,0 +1,13 @@
+{
+  "validated_at": "2026-10-27T18:40:58+00:00",
+  "composition_source_matches": 608,
+  "composition_source_failures": 0,
+  "recipes": 343,
+  "offers_with_composition": 608,
+  "offers_with_composition_price_usable_nutrition": 454,
+  "sqlite_integrity": "ok",
+  "sqlite_foreign_keys": "ok",
+  "gzip_json_equivalence": "ok",
+  "api_endpoint_checks": "ok",
+  "source_api_write_operations": 0
+}

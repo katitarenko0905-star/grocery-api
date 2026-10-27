@@ -1,0 +1,17 @@
+{
+  "camoufox_container": "camoufox-browser",
+  "session_isolation": "fresh independent browser context; no existing profiles used",
+  "perekrestok": {
+    "direct_browser": "navigation_changed_or_blocked",
+    "fallback": "official_product_card_index"
+  },
+  "pyaterochka": {
+    "direct_browser": "blocked",
+    "fallback": "official_product_card_index"
+  },
+  "magnit": {
+    "direct_browser": "store_selection_required; subsequent detail capture empty",
+    "fallback": "official_product_card_index"
+  },
+  "live_store_address_confirmed": false
+}

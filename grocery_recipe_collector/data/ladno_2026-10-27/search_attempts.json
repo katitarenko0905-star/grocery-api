@@ -1,0 +1,3545 @@
+{
+  "count": 354,
+  "attempts": [
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ морковь свежая \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:02.641Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Морковь\" свежая мытая",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:05.895Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ морковь свежая \"Состав\" -inurl:9072651201 -inurl:3412070008 -inurl:1445100176",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:17.414Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1445100176-morkov_mytaya_fasovannaya_1upak",
+      "pass": "enrich_1445100176",
+      "collected_at": "2026-10-27T18:21:20.505Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3412070008-morkov_mytaya",
+      "pass": "enrich_3412070008",
+      "collected_at": "2026-10-27T18:21:20.440Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651201-morkov",
+      "pass": "enrich_9072651201",
+      "collected_at": "2026-10-27T18:21:20.347Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ морковь свежая \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:02.475Z",
+      "error": null,
+      "source_card_count": 8
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ морковь свежая \"Состав\" -inurl:4208426 -inurl:14374",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:17.263Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ морковь свежая \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:02.552Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ морковь свежая \"Состав\" -inurl:2138999 -inurl:60529 -inurl:52112 -inurl:4295814 -inurl:3658261 -inurl:3074007 -inurl:4436232",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:17.342Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/morkov-mytaya--3074007",
+      "pass": "enrich_3074007",
+      "collected_at": "2026-10-27T18:21:20.580Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 10,
+      "ingredient_name": "Морковь",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/morkov-rezanaya-zamorozhennaya-400g--4436232",
+      "pass": "enrich_4436232",
+      "collected_at": "2026-10-27T18:21:20.724Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ помидоры томаты свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:06.558Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ помидоры томаты свежие \"Состав\" -inurl:8000107420 -inurl:1446000010 -inurl:1000382819 -inurl:3413351104 -inurl:1000309433",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:23.940Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000382819-tomaty_flamenco_slivovidnye_450g",
+      "pass": "enrich_1000382819",
+      "collected_at": "2026-10-27T18:21:40.486Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1446000010-tomaty_dyadya_vanya_v_tomatnom_soke_680g",
+      "pass": "enrich_1446000010",
+      "collected_at": "2026-10-27T18:21:40.421Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3413351104-tomaty_sliva_na_vetke_tsena_za_kg",
+      "pass": "enrich_3413351104",
+      "collected_at": "2026-10-27T18:21:40.549Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000107420-tomaty_1kg_bf_",
+      "pass": "enrich_8000107420",
+      "collected_at": "2026-10-27T18:21:40.320Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ помидоры томаты свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:06.410Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ помидоры томаты свежие \"Состав\" -inurl:202 -inurl:4042452 -inurl:4133320 -inurl:2092921 -inurl:4118648 -inurl:2100224 -inurl:3691160 -inurl:4055491 -inurl:4261327",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:23.764Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/150/p/tomaty-na-vetke-500g-4261327",
+      "pass": "enrich_4261327",
+      "collected_at": "2026-10-27T18:24:55.234Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ помидоры томаты свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:06.488Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ помидоры томаты свежие \"Состав\" -inurl:4432571 -inurl:78000513 -inurl:4119040 -inurl:4055083 -inurl:3017019 -inurl:4460362",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:23.864Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/tomaty-bakinskie--3017019",
+      "pass": "enrich_3017019",
+      "collected_at": "2026-10-27T18:21:44.391Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 11,
+      "ingredient_name": "Помидоры",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/pomidory-trattoria-di-maestro-turatti-protertye-50--78000513",
+      "pass": "enrich_78000513",
+      "collected_at": "2026-10-27T18:21:40.617Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе грудки куриное охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:09.656Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе грудки куриное охлажденное \"Состав\" -inurl:1999900058 -inurl:1999900057 -inurl:8000065663 -inurl:8000058414 -inurl:1000325093",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:45.808Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000325093-fermerskiy_produkt_file_tsypl_broylera_okhl",
+      "pass": "enrich_1000325093",
+      "collected_at": "2026-10-27T18:21:44.707Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1999900057-pf_iz_myasa_ptitsy_natur_okhl_grudka_kurinaya_sp_gm",
+      "pass": "enrich_1999900057",
+      "collected_at": "2026-10-27T18:21:44.540Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1999900058-pf_iz_myasa_ptitsy_natur_okhl_file_grudki_kurinoe_sp_gm",
+      "pass": "enrich_1999900058",
+      "collected_at": "2026-10-27T18:21:44.476Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000065663-file_kurinoe_v_klyare_ms_kulinariya",
+      "pass": "enrich_8000065663",
+      "collected_at": "2026-10-27T18:21:44.602Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе грудки куриное охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:09.503Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе грудки куриное охлажденное \"Состав\" -inurl:4177148 -inurl:2160069 -inurl:53105 -inurl:3658841 -inurl:2000967 -inurl:3191300 -inurl:3937986 -inurl:3191298 -inurl:4132835 -inurl:4121711 -inurl:4242120 -inurl:2169890",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:45.641Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе грудки куриное охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:09.587Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе грудки куриное охлажденное \"Состав\" -inurl:2160069 -inurl:3191300 -inurl:3658841 -inurl:3658780 -inurl:4324842 -inurl:4323073",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:45.741Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/file-kurinoe-okhlazhdennoe--3191300",
+      "pass": "enrich_3191300",
+      "collected_at": "2026-10-27T18:21:49.359Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/file-grudki-tsyplenka-nasha-ptichka-okhlazhdennoe--4323073",
+      "pass": "enrich_4323073",
+      "collected_at": "2026-10-27T18:21:49.508Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 12,
+      "ingredient_name": "Куриное филе",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/file-grudki-tsyplenka-an-noor-khalyal-okhlazhdenno--4324842",
+      "pass": "enrich_4324842",
+      "collected_at": "2026-10-27T18:21:49.442Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ крупа рис \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:13.200Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ крупа рис \"Состав\" -inurl:1000240822 -inurl:3157710001 -inurl:1000303412 -inurl:1000516842",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:50.999Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000240822-ris_srednezernyy_prosto_dlya_garnira_500g",
+      "pass": "enrich_1000240822",
+      "collected_at": "2026-10-27T18:21:49.572Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000303412-magnit_ris_shlifovanyy_kruglozernyy_1sort_900g_p_up_6",
+      "pass": "enrich_1000303412",
+      "collected_at": "2026-10-27T18:21:49.653Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ крупа рис \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:12.956Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ крупа рис \"Состав\" -inurl:3469127 -inurl:3634154 -inurl:4217253",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:50.859Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ крупа рис \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:13.034Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 13,
+      "ingredient_name": "Рис",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ крупа рис \"Состав\" -inurl:24754 -inurl:4217255 -inurl:4353225 -inurl:3608726 -inurl:3608320 -inurl:4217253",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:50.929Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе трески \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:16.917Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе трески \"Состав\" -inurl:8000077007 -inurl:1000382109 -inurl:1000371918 -inurl:8000099871",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:55.513Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000371918-borealis_treska_file_blok_b_k_b_kost_s_m_300g_vakuumnaya_upakovka_ao_norebo_ru_10",
+      "pass": "enrich_1000371918",
+      "collected_at": "2026-10-27T18:21:53.527Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000382109-borealis_treska_file_spinka_b_k_b_kost_s_m_400g_plastikovyy_konteyner_ao_norebo_ru_10",
+      "pass": "enrich_1000382109",
+      "collected_at": "2026-10-27T18:21:53.463Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000077007-vkusart_treska_tikhookean_s_m_file_b_kozh_500g_p_up",
+      "pass": "enrich_8000077007",
+      "collected_at": "2026-10-27T18:21:53.380Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе трески \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:16.760Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе трески \"Состав\" -inurl:78004144 -inurl:2065615 -inurl:4364443 -inurl:4390896 -inurl:4423567 -inurl:78007531 -inurl:4378893 -inurl:4249233 -inurl:4437241 -inurl:50016",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:55.349Z",
+      "error": null,
+      "source_card_count": 10
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе трески \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:16.848Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ \"трески\" \"филе\" рыба",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:02.264Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "pyaterochka",
+      "query": "official fish category product cards",
+      "pass": 3,
+      "collected_at": "2026-10-27T18:19:12.253Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе трески \"Состав\" -inurl:4119553",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:55.434Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 14,
+      "ingredient_name": "Филе трески",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/treska-atlanticheskaya-borealis-file-bez-kozhi-zam--4119553/",
+      "pass": "detail_19",
+      "collected_at": "2026-10-27T18:20:22.304Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ картофель \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:34.359Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ картофель \"Состав\" -inurl:1445100062 -inurl:1000429796 -inurl:3412060006 -inurl:1000164855 -inurl:1000429797 -inurl:3412130001",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:00.728Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000164855-kartofel_otvarnoy_v_vakuume_500g",
+      "pass": "enrich_1000164855",
+      "collected_at": "2026-10-27T18:22:01.082Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000429796-kartofel_dlya_varki_setka_3_kg_tsena_za_kg",
+      "pass": "enrich_1000429796",
+      "collected_at": "2026-10-27T18:21:53.664Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000429797-kartofel_dlya_zharki_setka_3_kg_tsena_za_kg",
+      "pass": "enrich_1000429797",
+      "collected_at": "2026-10-27T18:22:01.169Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1445100062-kartofel_fasovannyy",
+      "pass": "enrich_1445100062",
+      "collected_at": "2026-10-27T18:21:53.597Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3412060006-kartofel_novyy_urozhay_1kg",
+      "pass": "enrich_3412060006",
+      "collected_at": "2026-10-27T18:22:01.002Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3412130001-kartofel_molodoy",
+      "pass": "enrich_3412130001",
+      "collected_at": "2026-10-27T18:22:01.250Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ картофель \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:34.183Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ картофель \"Состав\" -inurl:769 -inurl:4265670 -inurl:19230 -inurl:4198936 -inurl:3129175 -inurl:3092450 -inurl:3987 -inurl:4395086 -inurl:2037675 -inurl:3143697 -inurl:3074469 -inurl:4264372",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:00.586Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ картофель \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:34.290Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ картофель \"Состав\" -inurl:31893 -inurl:3953590 -inurl:127 -inurl:3093966 -inurl:3489399 -inurl:3193945 -inurl:3692897 -inurl:4265670 -inurl:3193948",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:00.658Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/kartofel-ranniy--127",
+      "pass": "enrich_127",
+      "collected_at": "2026-10-27T18:22:01.317Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 15,
+      "ingredient_name": "Картофель",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/kartofel-chik-chik-1kg--4265670",
+      "pass": "enrich_4265670",
+      "collected_at": "2026-10-27T18:22:04.865Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ лимон \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:38.416Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ лимон \"Состав\" -inurl:9072651504",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:13.258Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651504-limony",
+      "pass": "enrich_9072651504",
+      "collected_at": "2026-10-27T18:22:04.942Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ лимон \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:38.208Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ лимон \"Состав\" -inurl:1536 -inurl:3294954 -inurl:3148269 -inurl:3369134 -inurl:3976891 -inurl:4346129 -inurl:4353531 -inurl:49780",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:13.079Z",
+      "error": null,
+      "source_card_count": 11
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ лимон \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:38.324Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ лимон \"Состав\" -inurl:4406691 -inurl:4302221 -inurl:4446655",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:13.187Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 16,
+      "ingredient_name": "Лимон",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/limonad-vkus-polza-s-prebiotikom-cokom-limona-i-la--4406691",
+      "pass": "enrich_4406691",
+      "collected_at": "2026-10-27T18:22:05.030Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ яйцо куриное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:42.576Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ яйцо куриное \"Состав\" -inurl:1000567216 -inurl:1000452213 -inurl:1000247234",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:17.993Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000452213-leto_yaytso_kurinoe_so_20sht",
+      "pass": "enrich_1000452213",
+      "collected_at": "2026-10-27T18:22:05.109Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ яйцо куриное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:42.410Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ яйцо куриное \"Состав\" -inurl:4085790 -inurl:4063105 -inurl:3182864 -inurl:4352464 -inurl:3421287 -inurl:3973665 -inurl:3474420 -inurl:3341462 -inurl:3634395 -inurl:3931602 -inurl:3914040 -inurl:3673977",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:17.744Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/123/p/ajco-kurinoe-pysminskaa-pticefabrika-derevenskoe-so-10st-3673977",
+      "pass": "enrich_3673977",
+      "collected_at": "2026-10-27T18:24:55.403Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/1589/p/ajco-kurinoe-irbitskaa-pf-pisevoe-stolovoe-s0-10st-3914040",
+      "pass": "enrich_3914040",
+      "collected_at": "2026-10-27T18:24:55.338Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ яйцо куриное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:42.505Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ яйцо куриное \"Состав\" -inurl:3062836 -inurl:3421287 -inurl:44323 -inurl:3001671 -inurl:3182856 -inurl:3446505 -inurl:3432532 -inurl:3476853 -inurl:3934852 -inurl:3934850 -inurl:4401286 -inurl:4401289",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:17.890Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytso-kurinoe-stolovoe-s1-10sht--3182856",
+      "pass": "enrich_3182856",
+      "collected_at": "2026-10-27T18:22:05.176Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytso-kurinoe-varaksino-derevenskoe-s1-10sht--3476853",
+      "pass": "enrich_3476853",
+      "collected_at": "2026-10-27T18:22:09.865Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytso-kurinoe-krasnaya-tsena-so-10sht--3934850",
+      "pass": "enrich_3934850",
+      "collected_at": "2026-10-27T18:22:10.035Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytso-kurinoe-krasnaya-tsena-s2-10sht--3934852",
+      "pass": "enrich_3934852",
+      "collected_at": "2026-10-27T18:22:09.951Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytsa-kurinye-vyruchay-so-10sht--4401286",
+      "pass": "enrich_4401286",
+      "collected_at": "2026-10-27T18:22:10.096Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 17,
+      "ingredient_name": "Яйца куриные",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yaytsa-kurinye-vyruchay-s1-10sht--4401289",
+      "pass": "enrich_4401289",
+      "collected_at": "2026-10-27T18:22:10.155Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ брокколи замороженная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:46.803Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ брокколи свежая состав",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:12.864Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ брокколи замороженная \"Состав\" -inurl:1000188793 -inurl:1000348801 -inurl:1000129130 -inurl:1445100011 -inurl:1000180806 -inurl:1000345441",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:24.453Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000180806-kapusta_brokkoli_hortex_400g",
+      "pass": "enrich_1000180806",
+      "collected_at": "2026-10-27T18:22:46.336Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000345441-kapusta_brokkoli_svezhaya_300g_korreks_kkh_mitrokhino_8",
+      "pass": "enrich_1000345441",
+      "collected_at": "2026-10-27T18:24:55.467Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1445100011-kapusta_brokkoli_1kg",
+      "pass": "enrich_1445100011",
+      "collected_at": "2026-10-27T18:22:46.232Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ брокколи замороженная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:46.647Z",
+      "error": null,
+      "source_card_count": 11
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/150/p/ брокколи свежая",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:09.523Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ брокколи замороженная \"Состав\" -inurl:3145786 -inurl:74445 -inurl:3625801 -inurl:4019915 -inurl:3489151 -inurl:3444750 -inurl:3405386 -inurl:4269499 -inurl:4379628 -inurl:4446987 -inurl:1557",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:24.291Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/150/p/kapusta-brokkoli-1557",
+      "pass": "enrich_1557",
+      "collected_at": "2026-10-27T18:24:55.538Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ брокколи замороженная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:46.733Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ брокколи свежая состав",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:09.591Z",
+      "error": null,
+      "source_card_count": 7
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ брокколи замороженная \"Состав\" -inurl:4379628 -inurl:4379638 -inurl:48655",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:24.367Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 18,
+      "ingredient_name": "Брокколи",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/kapusta-brokkoli--48655",
+      "pass": "enrich_48655",
+      "collected_at": "2026-10-27T18:22:46.404Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ нут консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:52.052Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ нут консервированный \"Состав\" -inurl:8000013399",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:29.118Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000013399-green_ribbon_nut_400g_zh_b_s_kl",
+      "pass": "enrich_8000013399",
+      "collected_at": "2026-10-27T18:22:46.467Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ нут консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:51.904Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ нут консервированный \"Состав\" -inurl:4211851 -inurl:4379095 -inurl:3696420 -inurl:4211852",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:28.950Z",
+      "error": null,
+      "source_card_count": 8
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ нут консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:12:51.979Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ \"Нут\" консервированный Bonduelle Global Village",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:02.372Z",
+      "error": null,
+      "source_card_count": 6
+    },
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ нут консервированный \"Состав\" ",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:29.048Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ овсяные хлопья \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:53.158Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ овсяные хлопья \"Состав\" -inurl:2149400007 -inurl:1000188391 -inurl:1000142900",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:29.736Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000142900-khlopya_ovsyanye_magnit_ekstra_400g",
+      "pass": "enrich_1000142900",
+      "collected_at": "2026-10-27T18:22:46.529Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ овсяные хлопья \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:52.980Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ овсяные хлопья \"Состав\" -inurl:72672 -inurl:3933387 -inurl:4331448 -inurl:4235993 -inurl:3506761 -inurl:4078263 -inurl:3632788 -inurl:4347439 -inurl:3503161 -inurl:3614326 -inurl:4157124 -inurl:4358591",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:29.555Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ овсяные хлопья \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:53.087Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ овсяные хлопья \"Состав\" -inurl:3601464 -inurl:3421663 -inurl:24926 -inurl:2122919 -inurl:23772 -inurl:3506761 -inurl:4349402 -inurl:3634076",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:29.666Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/khlopya-ovsyanye-klinskie-ekstra-400g--3506761",
+      "pass": "enrich_3506761",
+      "collected_at": "2026-10-27T18:22:51.398Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 1,
+      "ingredient_name": "Овсяные хлопья",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/khlopya-bystrov-ovsyanye-s-chernikoy-ne-trebuyushc--4349402",
+      "pass": "enrich_4349402",
+      "collected_at": "2026-10-27T18:22:51.479Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ огурцы свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:19.355Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ огурцы свежие \"Состав\" -inurl:8000010933 -inurl:1498900282 -inurl:8000024719",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:50.056Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000010933-ogurchiki_dyadya_vanya_po_berlinski_950g",
+      "pass": "enrich_8000010933",
+      "collected_at": "2026-10-27T18:22:51.553Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000024719-ogurtsy_botanika_420g",
+      "pass": "enrich_8000024719",
+      "collected_at": "2026-10-27T18:22:51.617Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ огурцы свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:19.185Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ огурцы свежие \"Состав\" -inurl:3476232 -inurl:4439292 -inurl:4054207 -inurl:3682401 -inurl:3368260 -inurl:2131726",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:49.801Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ огурцы свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:19.267Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ огурцы свежие \"Состав\" -inurl:4391463 -inurl:4309033 -inurl:4370752 -inurl:3219701 -inurl:3673129",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:49.969Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 20,
+      "ingredient_name": "Огурцы",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/ogurtsy-global-village-selection-po-nemetski-670g--4309033",
+      "pass": "enrich_4309033",
+      "collected_at": "2026-10-27T18:22:51.684Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ творог \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:22.664Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ творог \"Состав\" -inurl:1000416681 -inurl:1000372783 -inurl:1000536009 -inurl:1000400388 -inurl:8000033100 -inurl:8000086437 -inurl:8000032027 -inurl:1000426231 -inurl:1000400386 -inurl:1899911997",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:55.254Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000372783-prostokvashino_tvorog_2_200g_plastikovaya_vanna_ao_danon_rossiya_6",
+      "pass": "enrich_1000372783",
+      "collected_at": "2026-10-27T18:22:55.793Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000086437-kubanskiy_molochnik_tvorog_trad_5_300g_st_beg",
+      "pass": "enrich_8000086437",
+      "collected_at": "2026-10-27T18:22:55.874Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ творог \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:22.422Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/117/p/ \"Творог\" \"Состав\"",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:02.438Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "category links 61-77",
+      "pass": 3,
+      "collected_at": "2026-10-27T18:19:12.083Z",
+      "error": null,
+      "source_card_count": 8
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "category links 85-105",
+      "pass": 4,
+      "collected_at": "2026-10-27T18:19:12.188Z",
+      "error": null,
+      "source_card_count": 11
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ творог \"Состав\" -inurl:4216658 -inurl:4069819 -inurl:4128957 -inurl:4223080 -inurl:4153930 -inurl:4331301 -inurl:3604600 -inurl:4302354 -inurl:4142736 -inurl:4015006 -inurl:3197026 -inurl:4385964 -inurl:4437540 -inurl:4263615 -inurl:4227558 -inurl:4249286 -inurl:2103187 -inurl:3260682",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:55.015Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-9-molocnyj-znak-180g-4216658",
+      "pass": "detail_0",
+      "collected_at": "2026-10-27T18:20:05.257Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-magkij-4-5-zelenaa-linia-120g-4069819",
+      "pass": "detail_1",
+      "collected_at": "2026-10-27T18:20:05.367Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-ocen-vaznaa-korova-obezzirennyj-400g-4142736",
+      "pass": "detail_10",
+      "collected_at": "2026-10-27T18:20:14.230Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-selo-zelenoe-obezzirennyj-500g-4015006",
+      "pass": "detail_11",
+      "collected_at": "2026-10-27T18:20:14.317Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-savuskin-hutorok-1-300g-3197026",
+      "pass": "detail_12",
+      "collected_at": "2026-10-27T18:20:17.848Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/373/p/tvorog-obezzirennyj-zelenaa-linia-250g-4385964",
+      "pass": "detail_13",
+      "collected_at": "2026-10-27T18:20:17.935Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/373/p/tvorog-sarafanovo-bezlaktoznyj-obezzirennyj-130g-4437540",
+      "pass": "detail_14",
+      "collected_at": "2026-10-27T18:20:18.002Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-kubanskij-molocnik-umanskij-obezzirennyj-0-180g-3260682",
+      "pass": "detail_15",
+      "collected_at": "2026-10-27T18:20:18.063Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-a-rostagrokompleks-obezzirennyj-180g-4227558",
+      "pass": "detail_16",
+      "collected_at": "2026-10-27T18:20:22.092Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-korovka-iz-korenovki-obezzirennyj-180g-3409552",
+      "pass": "detail_17",
+      "collected_at": "2026-10-27T18:20:22.177Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/373/p/tvorog-talickij-tradicionnyj-obezzirennyj-200g-4263615",
+      "pass": "detail_18",
+      "collected_at": "2026-10-27T18:20:22.242Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-5-zelenaa-linia-400g-4128957",
+      "pass": "detail_2",
+      "collected_at": "2026-10-27T18:20:05.434Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-zernenyj-v-slivkah-5-molocnyj-znak-330g-4223080",
+      "pass": "detail_3",
+      "collected_at": "2026-10-27T18:20:05.497Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-9-zelenaa-linia-180g-4249286",
+      "pass": "detail_4",
+      "collected_at": "2026-10-27T18:20:09.903Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-5-zelenaa-linia-350g-4153930",
+      "pass": "detail_5",
+      "collected_at": "2026-10-27T18:20:09.986Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-obezzirennyj-0-5-molocnyj-znak-180g-4331301",
+      "pass": "detail_6",
+      "collected_at": "2026-10-27T18:20:10.050Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-selo-zelenoe-obezzirennyj-0-5-200g-3604600",
+      "pass": "detail_7",
+      "collected_at": "2026-10-27T18:20:10.111Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-ocen-vaznaa-korova-obezzirennyj-180g-4302354",
+      "pass": "detail_8",
+      "collected_at": "2026-10-27T18:20:14.072Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-alabuga-obezzirennyj-0-250g-2103187",
+      "pass": "detail_9",
+      "collected_at": "2026-10-27T18:20:14.158Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-alabuga-obezzirennyj-0-250g-2103187",
+      "pass": "enrich_2103187",
+      "collected_at": "2026-10-27T18:25:02.824Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-kubanskij-molocnik-umanskij-obezzirennyj-0-180g-3260682",
+      "pass": "enrich_3260682",
+      "collected_at": "2026-10-27T18:25:02.960Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/117/p/tvorog-korovka-iz-korenovki-obezzirennyj-180g-3409552",
+      "pass": "enrich_3409552",
+      "collected_at": "2026-10-27T18:25:03.079Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ творог \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:22.499Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ творог \"Состав\" -inurl:4121613 -inurl:4221383 -inurl:4354089 -inurl:4434512 -inurl:4254791 -inurl:4421322 -inurl:4206940 -inurl:4065775 -inurl:4062855",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:34:55.089Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 21,
+      "ingredient_name": "Творог",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/tvorog-savushkin-zernenyy-so-slivkami-5-200g--4062855",
+      "pass": "enrich_4062855",
+      "collected_at": "2026-10-27T18:22:55.943Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ банан \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:25.948Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Бананы\" свежие",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:05.739Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ банан \"Состав\" -inurl:9072651501 -inurl:1000580189",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:00.356Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000580189-banany_2_klass",
+      "pass": "enrich_1000580189",
+      "collected_at": "2026-10-27T18:25:03.299Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651501-banany",
+      "pass": "enrich_9072651501",
+      "collected_at": "2026-10-27T18:25:03.155Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ банан \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:25.797Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ банан \"Состав\" -inurl:3757 -inurl:3248225 -inurl:4112219 -inurl:3639749 -inurl:77104 -inurl:2084703",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:00.197Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ банан \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:25.872Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ банан \"Состав\" -inurl:809",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:00.284Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ йогурт натуральный без сахара \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:29.781Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ йогурт натуральный без сахара \"Состав\" -inurl:1000419276 -inurl:8000144681 -inurl:1000380540 -inurl:1000479168 -inurl:1000470924 -inurl:1000465853 -inurl:1000458438",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:13.961Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ йогурт натуральный без сахара \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:29.630Z",
+      "error": null,
+      "source_card_count": 11
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ йогурт натуральный без сахара \"Состав\" -inurl:3612567 -inurl:4298986 -inurl:4454643 -inurl:4146718 -inurl:4352337 -inurl:4324114 -inurl:3431431 -inurl:3638992 -inurl:3409551",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:13.638Z",
+      "error": null,
+      "source_card_count": 11
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/119/p/jogurt-kirzacskij-mz-bez-sahara-2-5-450g-3409551",
+      "pass": "enrich_3409551",
+      "collected_at": "2026-10-27T18:25:26.767Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/119/p/jogurt-domik-v-derevne-1-8-260g-4352337",
+      "pass": "enrich_4352337",
+      "collected_at": "2026-10-27T18:22:56.005Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ йогурт натуральный без сахара \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:29.708Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 23,
+      "ingredient_name": "Йогурт натуральный",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ йогурт натуральный без сахара \"Состав\" -inurl:4324114 -inurl:3612567 -inurl:4142664 -inurl:4437537",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:13.796Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ макароны \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:34.277Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ макароны \"Состав\" -inurl:3174070006 -inurl:1000303436 -inurl:1000166929 -inurl:1348900003 -inurl:1000372183 -inurl:1000167334 -inurl:1000199772 -inurl:1000199773 -inurl:3042670099 -inurl:1000143407",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:20.516Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000199773-barilla_bukatini_makaron_izd_v_s_400g_k_up_barilla_24",
+      "pass": "enrich_1000199773",
+      "collected_at": "2026-10-27T18:23:01.126Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000303436-barilla_makaronnye_izdeliya_paghett_bez_glyutena_iz_kukuruznoy_i_risovoy_muki_400g_kartonnaya_upakov",
+      "pass": "enrich_1000303436",
+      "collected_at": "2026-10-27T18:23:00.901Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000372183-magnit_izdeliya_makaronnye_sort_vysshiy_gruppa_a_450g_polietilenovaya_upakovka_oao_baysad_kashira_12",
+      "pass": "enrich_1000372183",
+      "collected_at": "2026-10-27T18:23:01.064Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1348900003-makarony_magnit_spirali_450g",
+      "pass": "enrich_1348900003",
+      "collected_at": "2026-10-27T18:23:00.985Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3174070006-makarony_shebekinskie_spagetti_450g",
+      "pass": "enrich_3174070006",
+      "collected_at": "2026-10-27T18:22:56.066Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ макароны \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:34.123Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ макароны \"Состав\" -inurl:4155222 -inurl:4383560 -inurl:4466259 -inurl:4420682 -inurl:4328907 -inurl:37037 -inurl:3629551 -inurl:4420992 -inurl:82766 -inurl:4199587 -inurl:4145062 -inurl:3216684",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:20.263Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ макароны \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:13:34.208Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ макароны \"Состав\" -inurl:2049750 -inurl:3662440 -inurl:4257494 -inurl:91302 -inurl:4199587 -inurl:2110615 -inurl:4037645 -inurl:3202778 -inurl:2049748 -inurl:82766",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:20.349Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/makarony-makfa-gnyozda-450g--2049748",
+      "pass": "enrich_2049748",
+      "collected_at": "2026-10-27T18:23:04.355Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 24,
+      "ingredient_name": "Макароны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/makarony-makfa-ulitki-450g--2049750",
+      "pass": "enrich_2049750",
+      "collected_at": "2026-10-27T18:23:01.188Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ фасоль консервированная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:00.187Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ фасоль консервированная \"Состав\" -inurl:1000255621 -inurl:3060830554 -inurl:1000189505 -inurl:1000130874",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:25.017Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000130874-frau_marta_fasol_belaya_310g_zh_b_s_kl_promkonservy_15",
+      "pass": "enrich_1000130874",
+      "collected_at": "2026-10-27T18:23:04.505Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000255621-fasol_belaya_moya_tsena_360gr",
+      "pass": "enrich_1000255621",
+      "collected_at": "2026-10-27T18:23:04.438Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ фасоль консервированная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:00.036Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ фасоль консервированная \"Состав\" -inurl:4391313 -inurl:3353703 -inurl:3455753 -inurl:4175699 -inurl:4316313 -inurl:4330056 -inurl:3635745 -inurl:51992",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:24.863Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/76/p/fasol-heinz-krasnaa-400-g-3353703",
+      "pass": "enrich_3353703",
+      "collected_at": "2026-10-27T18:23:04.568Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/76/p/fasol-belaa-frau-marta-310g-3455753",
+      "pass": "enrich_3455753",
+      "collected_at": "2026-10-27T18:23:04.633Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/76/p/fasol-6-sotok-krasnaa-425g-51992",
+      "pass": "enrich_51992",
+      "collected_at": "2026-10-27T18:25:26.967Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ фасоль консервированная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:00.116Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ фасоль консервированная \"Состав\" -inurl:20062 -inurl:3235374 -inurl:3415786 -inurl:3235377 -inurl:4389303 -inurl:4216819 -inurl:2170002",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:24.940Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/fasol-globus-krasnaya-naturalnaya-400g--2170002",
+      "pass": "enrich_2170002",
+      "collected_at": "2026-10-27T18:23:08.135Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 25,
+      "ingredient_name": "Фасоль готовая без жидкости",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/fasol-global-village-krasnaya-v-sobstvennom-soku-4--3235374",
+      "pass": "enrich_3235374",
+      "collected_at": "2026-10-27T18:23:08.051Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе индейки охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:04.011Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ филе индейки охлажденное \"Состав\" -inurl:1999900073 -inurl:1000289770 -inurl:1000261026 -inurl:1000261025",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:32.544Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000261025-file_bedra_indeyki_indilayt_410g",
+      "pass": "enrich_1000261025",
+      "collected_at": "2026-10-27T18:23:14.551Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000261026-indilayt_file_grudki_indeyki_okhl500g_lotok_penzamolinvest_4",
+      "pass": "enrich_1000261026",
+      "collected_at": "2026-10-27T18:23:08.351Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000289770-pf_iz_myasa_ptitsy_natur_okhl_file_bedra_indeyki_1kg_v_neupakovan_sp_gm",
+      "pass": "enrich_1000289770",
+      "collected_at": "2026-10-27T18:23:08.268Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1999900073-pf_iz_myasa_ptitsy_natur_okhl_file_indeyki_sp_gm",
+      "pass": "enrich_1999900073",
+      "collected_at": "2026-10-27T18:23:08.200Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе индейки охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:03.848Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ филе индейки охлажденное \"Состав\" -inurl:4122035 -inurl:4444775 -inurl:3477368 -inurl:4215262 -inurl:2141569 -inurl:4177156 -inurl:3095297",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:32.360Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе индейки охлажденное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:03.941Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ филе индейки охлажденное \"Состав\" -inurl:4216558 -inurl:3688509 -inurl:3994529 -inurl:4215262",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:32.456Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 26,
+      "ingredient_name": "Филе индейки",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/file-indeyki-perva-v-sobstvennom-soku-180g--3994529",
+      "pass": "enrich_3994529",
+      "collected_at": "2026-10-27T18:23:14.630Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ капуста белокочанная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:06.979Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Капуста белокочанная\"",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:09.436Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ капуста белокочанная \"Состав\" -inurl:9072651205",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:40.426Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651205-kapusta_belokochannaya_1kg",
+      "pass": "enrich_9072651205",
+      "collected_at": "2026-10-27T18:23:14.711Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ капуста белокочанная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:06.842Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ капуста белокочанная \"Состав\" -inurl:198 -inurl:31878 -inurl:77094 -inurl:1546 -inurl:4208425",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:40.209Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/150/p/kapusta-belokocannaa-31878",
+      "pass": "enrich_31878",
+      "collected_at": "2026-10-27T18:23:14.774Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ капуста белокочанная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:06.910Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ капуста белокочанная \"Состав\" -inurl:198 -inurl:1546",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:40.308Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 27,
+      "ingredient_name": "Капуста",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/kapusta-belokochannaya-rannyaya--1546",
+      "pass": "enrich_1546",
+      "collected_at": "2026-10-27T18:23:14.838Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ тыква \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:10.291Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ тыква \"Состав\" -inurl:9072651208 -inurl:2400016024 -inurl:1000075741",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:44.752Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/2400016024-tykva_1kg",
+      "pass": "enrich_2400016024",
+      "collected_at": "2026-10-27T18:23:19.680Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651208-tykva_batternat_1kg",
+      "pass": "enrich_9072651208",
+      "collected_at": "2026-10-27T18:23:19.593Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ тыква \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:10.136Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ тыква \"Состав\" -inurl:3222422 -inurl:78698 -inurl:69232 -inurl:78006092 -inurl:4273103 -inurl:82036 -inurl:4088963 -inurl:3399443 -inurl:48627",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:44.589Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/150/p/tykva-zeltaa-48627",
+      "pass": "enrich_48627",
+      "collected_at": "2026-10-27T18:25:27.114Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ тыква \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:10.223Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ тыква \"Состав\" -inurl:3639814 -inurl:3625860 -inurl:4195119 -inurl:4182211 -inurl:3399443",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:44.678Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/tykva-4-sezona-bystrozamorozhennaya-400g--3399443",
+      "pass": "enrich_3399443",
+      "collected_at": "2026-10-27T18:23:19.875Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/tykva-i-zimoy-i-letom-zamorozhennaya-400g--4182211",
+      "pass": "enrich_4182211",
+      "collected_at": "2026-10-27T18:23:19.813Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 28,
+      "ingredient_name": "Тыква",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/tykva-stolovaya-svezhaya-narezannaya-500g--4195119",
+      "pass": "enrich_4195119",
+      "collected_at": "2026-10-27T18:23:19.749Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ горошек зеленый консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:14.111Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ горошек зеленый консервированный \"Состав\" -inurl:1000542472 -inurl:8000062419 -inurl:8000083990 -inurl:1000531627 -inurl:3060830547",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:50.556Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000542472-green_ribbon_goroshek_zelenyy_400g_zh_b_s_kl",
+      "pass": "enrich_1000542472",
+      "collected_at": "2026-10-27T18:23:59.788Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3060830547-goroshek_zelenyy_bonduelle_400g",
+      "pass": "enrich_3060830547",
+      "collected_at": "2026-10-27T18:24:00.019Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000062419-kubanochka_goroshek_zelenyy_kons_370g_st_ban_grandstar",
+      "pass": "enrich_8000062419",
+      "collected_at": "2026-10-27T18:23:59.886Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000083990-frau_marta_goroshek_zelenyy_gost_450g_st_ban",
+      "pass": "enrich_8000083990",
+      "collected_at": "2026-10-27T18:23:59.952Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ горошек зеленый консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:13.899Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ горошек зеленый консервированный \"Состав\" -inurl:82254 -inurl:3447858 -inurl:3635251 -inurl:4188483 -inurl:4100914 -inurl:21306 -inurl:32340 -inurl:4078780 -inurl:3307409 -inurl:4192227",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:50.417Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ горошек зеленый консервированный \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:14:13.989Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 29,
+      "ingredient_name": "Зелёный горошек",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ горошек зеленый консервированный \"Состав\" -inurl:4078780 -inurl:3307409",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:35:50.487Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ молоко питьевое пастеризованное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:56.115Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ молоко питьевое пастеризованное \"Состав\" -inurl:1000548435 -inurl:8000135023 -inurl:1000450018 -inurl:1899800733 -inurl:1821092005 -inurl:1000172831 -inurl:1899800732",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:33.974Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000172831-kubanskiy_molochnik_moloko_2_5_720g_pl_kan_leningradskiy_6",
+      "pass": "enrich_1000172831",
+      "collected_at": "2026-10-27T18:24:00.092Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ молоко питьевое пастеризованное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:55.962Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ молоко питьевое пастеризованное \"Состав\" -inurl:4226023 -inurl:3992562 -inurl:3965570 -inurl:3965572 -inurl:4208491 -inurl:4147953 -inurl:4107910 -inurl:3473680 -inurl:4111895 -inurl:4252647 -inurl:3925965 -inurl:2084860",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:33.810Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/230/p/moloko-pitevoe-pasterizovannoe-3-2-500ml-2084860",
+      "pass": "enrich_2084860",
+      "collected_at": "2026-10-27T18:25:27.182Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ молоко питьевое пастеризованное \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:56.034Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ молоко питьевое пастеризованное \"Состав\" -inurl:4402295 -inurl:3986555 -inurl:4263109 -inurl:37461 -inurl:4438017 -inurl:4259100 -inurl:3328526 -inurl:4338307 -inurl:3922311 -inurl:3463789",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:33.888Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/moloko-selo-zelenoe-ultrapasterizovannoe-2-5-bzmzh--3328526",
+      "pass": "enrich_3328526",
+      "collected_at": "2026-10-27T18:24:03.539Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/moloko-pravilnoe-moloko-pasterizovannoe-2-5-bzmzh--3463789",
+      "pass": "enrich_3463789",
+      "collected_at": "2026-10-27T18:25:27.245Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/moloko-ekoniva-pasterizovannoe-2-5-bzmzh-1l--3922311",
+      "pass": "enrich_3922311",
+      "collected_at": "2026-10-27T18:24:03.670Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/moloko-vologzhanka-pitevoe-ultrapasterizovannoe-2--4338307",
+      "pass": "enrich_4338307",
+      "collected_at": "2026-10-27T18:24:03.604Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 2,
+      "ingredient_name": "Молоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/moloko-pitevoe-pasterizovannoe-1-5-800ml--4402295",
+      "pass": "enrich_4402295",
+      "collected_at": "2026-10-27T18:24:03.452Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ яблоки \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:58.988Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ яблоки \"Состав\" -inurl:9039215501 -inurl:1444500129 -inurl:3412080001",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:38.427Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1444500129-yabloki_fasovannye",
+      "pass": "enrich_1444500129",
+      "collected_at": "2026-10-27T18:24:08.290Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3412080001-yabloki_krasnye",
+      "pass": "enrich_3412080001",
+      "collected_at": "2026-10-27T18:24:08.376Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9039215501-yabloki_novyy_urozhay",
+      "pass": "enrich_9039215501",
+      "collected_at": "2026-10-27T18:24:03.731Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ яблоки \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:58.830Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ яблоки \"Состав\" -inurl:47795 -inurl:4194480 -inurl:807 -inurl:48645 -inurl:3942607 -inurl:3366326 -inurl:3095529 -inurl:4257177 -inurl:4342539 -inurl:4097665 -inurl:4436153 -inurl:3639577",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:38.261Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ яблоки \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:10:58.917Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ яблоки \"Состав\" -inurl:3204828 -inurl:807 -inurl:48188 -inurl:78643 -inurl:5793 -inurl:48637 -inurl:3647290 -inurl:4208423 -inurl:3691118 -inurl:3980656",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:38.349Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yabloki-zhigulevskie-1kg--3980656",
+      "pass": "enrich_3980656",
+      "collected_at": "2026-10-27T18:24:08.503Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 4,
+      "ingredient_name": "Яблоко",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/yabloki-krips-pink--78643",
+      "pass": "enrich_78643",
+      "collected_at": "2026-10-27T18:24:08.442Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ гречка ядрица \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:03.265Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ гречка ядрица \"Состав\" -inurl:1342500014 -inurl:8000135801 -inurl:1393100200 -inurl:1000383804 -inurl:1000443951 -inurl:8000014001 -inurl:1000303406 -inurl:1000175641",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:43.934Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ гречка ядрица \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:03.114Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ гречка ядрица \"Состав\" -inurl:3231481 -inurl:28960 -inurl:3674200 -inurl:53673 -inurl:4151853 -inurl:3446736 -inurl:3438178 -inurl:39155 -inurl:4353613 -inurl:6847 -inurl:3477255 -inurl:3019156",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:43.776Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/107/p/grecka-mistral-adrica-2kg-3019156",
+      "pass": "enrich_3019156",
+      "collected_at": "2026-10-27T18:25:30.695Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ гречка ядрица \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:03.196Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ гречка ядрица \"Состав\" -inurl:3231481 -inurl:3667232 -inurl:53673 -inurl:4009020 -inurl:3603166 -inurl:4413143 -inurl:3996273 -inurl:6847 -inurl:39155 -inurl:4361230 -inurl:4472500",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:43.867Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/grechka-uvelka-ekstra-5kh80g--3603166",
+      "pass": "enrich_3603166",
+      "collected_at": "2026-10-27T18:24:12.702Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/grechka-uvelka-ekstra-800g--39155",
+      "pass": "enrich_39155",
+      "collected_at": "2026-10-27T18:24:12.868Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/grechka-mistral-fermerskaya-yadritsa-proparennaya--4009020",
+      "pass": "enrich_4009020",
+      "collected_at": "2026-10-27T18:24:08.561Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 5,
+      "ingredient_name": "Гречневая крупа",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/krupa-natsional-grechka-yadritsa-900g--6847",
+      "pass": "enrich_6847",
+      "collected_at": "2026-10-27T18:24:12.804Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ шампиньоны свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:32.613Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ шампиньоны свежие \"Состав\" -inurl:9409611174 -inurl:1000185753 -inurl:1498900060 -inurl:8000025037",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:49.514Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/8000025037-green_ribbon_shampinony_konserv_rezanye_400g_zh_b",
+      "pass": "enrich_8000025037",
+      "collected_at": "2026-10-27T18:24:12.996Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9409611174-shampinony_lorado_rezannye_400g",
+      "pass": "enrich_9409611174",
+      "collected_at": "2026-10-27T18:24:12.934Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ шампиньоны свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:32.438Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ шампиньоны свежие \"Состав\" -inurl:3210027 -inurl:4355283 -inurl:3357066 -inurl:6176 -inurl:4319369 -inurl:3655737 -inurl:3683919 -inurl:3126666 -inurl:2071820",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:49.343Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ шампиньоны свежие \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:32.544Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ шампиньоны свежие \"Состав\" -inurl:3357066 -inurl:3655730 -inurl:412 -inurl:3065340 -inurl:4443636 -inurl:3685051 -inurl:4341144",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:49.432Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/shampinony-lutik-tselye-400g--3065340",
+      "pass": "enrich_3065340",
+      "collected_at": "2026-10-27T18:24:17.276Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/shampinony-global-village-svezhie-rezanye-300g--3655730",
+      "pass": "enrich_3655730",
+      "collected_at": "2026-10-27T18:24:17.190Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/shampinony-global-village-korolevskie-300g--3685051",
+      "pass": "enrich_3685051",
+      "collected_at": "2026-10-27T18:24:17.343Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 6,
+      "ingredient_name": "Шампиньоны",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/shampinon-de-pari-s-kuritsey-zamorozhennyy-i-zimoy--4341144",
+      "pass": "enrich_4341144",
+      "collected_at": "2026-10-27T18:24:17.407Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ лук репчатый \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:38.674Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ лук репчатый \"Состав\" -inurl:9072651204 -inurl:3413351102",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:53.338Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/3413351102-luk_repchatyy_fasovannyy_1kg",
+      "pass": "enrich_3413351102",
+      "collected_at": "2026-10-27T18:24:21.969Z",
+      "error": null,
+      "source_card_count": 0
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/9072651204-luk_repchatyy",
+      "pass": "enrich_9072651204",
+      "collected_at": "2026-10-27T18:24:17.470Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ лук репчатый \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:38.517Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ лук репчатый \"Состав\" -inurl:45463 -inurl:197 -inurl:3016772 -inurl:3368253 -inurl:79135 -inurl:3969 -inurl:77097 -inurl:3021896 -inurl:79012 -inurl:3356370 -inurl:3016771 -inurl:3663109",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:53.175Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/150/p/luk-repcatyj-77097",
+      "pass": "enrich_77097",
+      "collected_at": "2026-10-27T18:24:22.049Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ лук репчатый \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:38.605Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ лук репчатый \"Состав\" -inurl:197 -inurl:45463 -inurl:3356370 -inurl:3095107 -inurl:43819 -inurl:2139003 -inurl:3470250 -inurl:4435185",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:53.262Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/luk-yaltinskiy-repchatyy-krasnyy--3095107",
+      "pass": "enrich_3095107",
+      "collected_at": "2026-10-27T18:24:22.192Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/luk-repchatyy-krasnyy-500g--3356370",
+      "pass": "enrich_3356370",
+      "collected_at": "2026-10-27T18:24:22.131Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/luk-belyy-fasovannyy-500g--3470250",
+      "pass": "enrich_3470250",
+      "collected_at": "2026-10-27T18:24:26.353Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/luk-belyy--43819",
+      "pass": "enrich_43819",
+      "collected_at": "2026-10-27T18:24:22.255Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 7,
+      "ingredient_name": "Лук",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/luk-fri-15g--4435185",
+      "pass": "enrich_4435185",
+      "collected_at": "2026-10-27T18:24:26.439Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ масло оливковое \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:42.569Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло оливковое\" \"Состав\"",
+      "pass": 2,
+      "collected_at": "2026-10-27T18:18:05.826Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Borges\" \"Состав\"",
+      "pass": "brand_0",
+      "collected_at": "2026-10-27T18:36:45.400Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Monini\" \"Состав\"",
+      "pass": "brand_1",
+      "collected_at": "2026-10-27T18:36:45.505Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Filippo Berio\" \"Состав\"",
+      "pass": "brand_2",
+      "collected_at": "2026-10-27T18:36:45.594Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Costa d'Oro\" \"Состав\"",
+      "pass": "brand_3",
+      "collected_at": "2026-10-27T18:36:51.240Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Maestro de Oliva\" \"Состав\"",
+      "pass": "brand_4",
+      "collected_at": "2026-10-27T18:36:51.320Z",
+      "error": null,
+      "source_card_count": 6
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ \"Масло\" \"оливковое\" \"Premiere of Taste\" \"Состав\"",
+      "pass": "brand_5",
+      "collected_at": "2026-10-27T18:36:51.388Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ масло оливковое \"Состав\" -inurl:1000122120 -inurl:1000122122 -inurl:1700000010",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:57.901Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1000122120-spainolli_maslo_olivkovoe_pure_250ml_s_b_6",
+      "pass": "enrich_1000122120",
+      "collected_at": "2026-10-27T18:24:26.504Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "magnit",
+      "query": "https://magnit.ru/product/1700000010-olivkovoe_maslo_monini_extra_virgin_1l",
+      "pass": "enrich_1700000010",
+      "collected_at": "2026-10-27T18:24:26.571Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ масло оливковое \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:42.419Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"ITLV\" \"Состав\"",
+      "pass": "brand_0",
+      "collected_at": "2026-10-27T18:36:57.552Z",
+      "error": null,
+      "source_card_count": 3
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"Iberica\" \"Состав\"",
+      "pass": "brand_1",
+      "collected_at": "2026-10-27T18:36:57.625Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"Monini\" \"Состав\"",
+      "pass": "brand_2",
+      "collected_at": "2026-10-27T18:36:57.699Z",
+      "error": null,
+      "source_card_count": 2
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"Costa\" \"Состав\"",
+      "pass": "brand_3",
+      "collected_at": "2026-10-27T18:37:03.831Z",
+      "error": null,
+      "source_card_count": 2
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"Global Village\" \"Состав\"",
+      "pass": "brand_4",
+      "collected_at": "2026-10-27T18:37:03.916Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ \"Масло оливковое\" \"De Cecco\" \"Состав\"",
+      "pass": "brand_5",
+      "collected_at": "2026-10-27T18:37:03.988Z",
+      "error": null,
+      "source_card_count": 3
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ масло оливковое \"Состав\" -inurl:4316749 -inurl:4316748 -inurl:4144296 -inurl:4134835 -inurl:4386430 -inurl:4144282 -inurl:27061 -inurl:3958631 -inurl:4374299 -inurl:2085914 -inurl:61549 -inurl:3681164",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:57.742Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ масло оливковое \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:42.497Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ \"оливковое\" \"Filippo Berio\" \"Состав\"",
+      "pass": "brand_0",
+      "collected_at": "2026-10-27T18:37:06.495Z",
+      "error": null,
+      "source_card_count": 3
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ \"оливковое\" \"Colavita\" \"Состав\"",
+      "pass": "brand_1",
+      "collected_at": "2026-10-27T18:37:06.574Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ \"оливковое\" \"Monini\" \"Состав\"",
+      "pass": "brand_2",
+      "collected_at": "2026-10-27T18:37:06.639Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ масло оливковое \"Состав\" -inurl:4047519 -inurl:7581 -inurl:4082388 -inurl:3605876 -inurl:4130610 -inurl:19133 -inurl:3664702 -inurl:3484687",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:32:57.831Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/maslo-olivkovoe-borges-classic-notka-sredizemnomor--19133",
+      "pass": "enrich_19133",
+      "collected_at": "2026-10-27T18:24:31.329Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/maslo-olivkovoe-costa-d-oro-il-grezzo-extra-virgin--3484687",
+      "pass": "enrich_3484687",
+      "collected_at": "2026-10-27T18:24:31.395Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/maslo-olivkovoe-global-village-classic-universalno--3605876",
+      "pass": "enrich_3605876",
+      "collected_at": "2026-10-27T18:24:31.249Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 8,
+      "ingredient_name": "Оливковое масло",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/maslo-olivkovoe-itlv-extra-virgin-250ml--7581",
+      "pass": "enrich_7581",
+      "collected_at": "2026-10-27T18:24:26.636Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ чечевица красная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:46.797Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "magnit",
+      "query": "site:magnit.ru/product/ чечевица красная \"Состав\" -inurl:1000567452",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:12.880Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ чечевица красная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:46.642Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "perekrestok",
+      "query": "site:perekrestok.ru/cat/ чечевица красная \"Состав\" -inurl:3651907 -inurl:4151862 -inurl:4095271 -inurl:4130483 -inurl:4147127 -inurl:3628270 -inurl:3626255",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:12.637Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/745/p/cecevica-nacional-krasnaa-450g-3626255",
+      "pass": "enrich_3626255",
+      "collected_at": "2026-10-27T18:25:30.832Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "perekrestok",
+      "query": "https://www.perekrestok.ru/cat/745/p/cecevica-agro-alans-krasnaa-450g-3628270",
+      "pass": "enrich_3628270",
+      "collected_at": "2026-10-27T18:25:30.764Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ чечевица красная \"Состав\"",
+      "pass": 1,
+      "collected_at": "2026-10-27T18:11:46.731Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "pyaterochka",
+      "query": "site:5ka.ru/product/ чечевица красная \"Состав\" -inurl:3628270 -inurl:3651907 -inurl:4130483 -inurl:3422644",
+      "pass": "breadth_2",
+      "collected_at": "2026-10-27T18:33:12.759Z",
+      "error": null,
+      "source_card_count": 12
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/chechevitsa-mistral-persidskaya-krasnaya-kolotaya--3422644",
+      "pass": "enrich_3422644",
+      "collected_at": "2026-10-27T18:24:31.593Z",
+      "error": null,
+      "source_card_count": 1
+    },
+    {
+      "ingredient_id": 9,
+      "ingredient_name": "Красная чечевица",
+      "store": "pyaterochka",
+      "query": "https://5ka.ru/product/chechevitsa-mistral-smes-krasnoy-i-zhyoltoy-450g--3651907",
+      "pass": "enrich_3651907",
+      "collected_at": "2026-10-27T18:24:31.471Z",
+      "error": null,
+      "source_card_count": 1
+    }
+  ]
+}

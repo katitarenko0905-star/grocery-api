@@ -1,0 +1,51 @@
+{
+  "recipes": 343,
+  "ingredients": 29,
+  "recipe_ingredient_rows": 1709,
+  "offers": 608,
+  "candidates": 19,
+  "by_store": {
+    "magnit": 150,
+    "perekrestok": 271,
+    "pyaterochka": 187
+  },
+  "with_price": 557,
+  "complete_composition_price_nutrition": 454,
+  "recipes_with_all_ingredients_any_store": 343,
+  "coverage_missing": [
+    {
+      "ingredient_id": 19,
+      "ingredient_name": "Нут готовый без жидкости",
+      "store": "pyaterochka",
+      "offers": 0,
+      "with_price": 0,
+      "with_complete_nutrition": 0,
+      "with_usable_nutrition": 0,
+      "with_composition_price_nutrition": 0,
+      "pending_composition": 0,
+      "coverage_complete": false,
+      "status": "missing"
+    },
+    {
+      "ingredient_id": 22,
+      "ingredient_name": "Банан",
+      "store": "magnit",
+      "offers": 0,
+      "with_price": 0,
+      "with_complete_nutrition": 0,
+      "with_usable_nutrition": 0,
+      "with_composition_price_nutrition": 0,
+      "pending_composition": 2,
+      "coverage_complete": false,
+      "status": "missing"
+    }
+  ],
+  "quality_flags": {
+    "incomplete_nutrition": 94,
+    "conflicting_availability": 76,
+    "missing_price": 51,
+    "zero_nutrition_from_source": 8,
+    "inconsistent_nutrition_from_source": 4,
+    "drained_weight_not_published": 42
+  }
+}
